@@ -1,0 +1,2 @@
+# Auditoria inicial usa apenas a biblioteca padrão do Python.
+# Dependências de modelagem serão fixadas após confirmar o ambiente original.
