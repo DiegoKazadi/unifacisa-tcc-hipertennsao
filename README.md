@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 # UNIFACISA — TCC Hipertensão
+=======
+# unifacisa-tcc-hipertensao
+Reprodução experimental do TCC da UNIFACISA sobre aprendizagem de máquina aplicada à previsão de hipertensão arterial, com preparação do ambiente, análise dos dados e comparação de modelos.
+>>>>>>> 26429452d1ce07cf7b2d8dec8778109c8ce24371
 
 Repositório de reprodução experimental do TCC **Aplicando Modelos de Aprendizagem de Máquina para Prever Hipertensão Arterial: Uma Análise Comparativa**, defendido em 07/12/2020, em Campina Grande — PB.
 
