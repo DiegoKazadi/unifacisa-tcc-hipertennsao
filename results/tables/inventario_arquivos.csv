@@ -1,0 +1,11 @@
+﻿arquivo,extensao,tamanho_bytes
+data/raw/cleveland/cleveland_doenca_cardiaca.arff,.arff,14683
+data/raw/cleveland/cleveland_doenca_cardiaca.txt,.txt,14697
+data/raw/cleveland/cleveland_hipertenso.txt,.txt,14697
+data/raw/framingham/Copie_framingham.txt,.txt,20472
+data/raw/framingham/framingham_doenca_cardiaca.arff,.arff,20536
+data/raw/framingham/framingham_doenca_cardiaca.txt,.txt,20511
+data/raw/framingham/framingham_heart_disease.arff,.arff,197362
+data/raw/framingham/framingham_heart_disease.csv,.csv,195955
+data/raw/other/dataset.arff,.arff,14830
+data/raw/other/README.md,.md,255
